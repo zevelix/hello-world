@@ -1,2 +1,3 @@
 # hello-world
-My first GitHub repo
+
+Going through the GitHub tutorial. Learned about repos, branches, and the like.
